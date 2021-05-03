@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hit there 👋
 ## 我的仓库
 - 🌱 I’m currently learning ...
 
