@@ -1,8 +1,12 @@
 # Hit there 👋
-## 我的仓库
+
+<h3 align="center">小男孩</h3>
+
 - 🌱 I’m currently learning ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcusms&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcusms)](https://github.com/gcusms/github-readme-stats)
+
+
 <!--
 **gcusms/gcusms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 欢迎来到我的世界
@@ -18,7 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🎧 Spotify Playing
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=430 height=86 src="//music.163.com/outchain/player?type=2&id=114389&auto=0&height=66"></iframe>
 
