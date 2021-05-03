@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🎧 Spotify Playing
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gcusms Spotify Playing" width="350" />](https://music.163.com/#/song?id=1459023707)
