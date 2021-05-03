@@ -2,9 +2,7 @@
 ## 我的仓库
 - 🌱 I’m currently learning ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcusms&show_icons=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcusms)](https://github.com/gcusms/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcusms&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcusms)](https://github.com/gcusms/github-readme-stats)
 <!--
 **gcusms/gcusms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 欢迎来到我的世界
