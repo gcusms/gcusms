@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ### 🎧 Spotify Playing
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gcusms Spotify Playing" width="350" />](https://music.163.com/#/song?id=1459023707)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gcusms" width="350" />](https://music.163.com/#/song?id=1459023707)
