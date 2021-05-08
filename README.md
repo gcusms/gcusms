@@ -1,6 +1,6 @@
 # Hit there 👋
 
-<h3 align="center">小男孩</h3>
+<h3 align="center">GCUSMS</h3>
 
 - 🌱 I’m currently learning ...
 
