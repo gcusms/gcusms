@@ -5,15 +5,6 @@
 - 🌱 I’m currently learning ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcusms&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcusms)](https://github.com/gcusms/github-readme-stats)
-
-
-### 📺 其他笔记链接
-<!-- YOUTUBE:START -->
-- [GITHUB](https://github.com/gcusms)
-- [CSDN博客链接](https://blog.csdn.net/Msyusheng?spm=1000.2115.3001.5343)
-<!-- YOUTUBE:END -->
-
-
 <!--
 **gcusms/gcusms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 欢迎来到我的世界
@@ -28,5 +19,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📺 其他笔记链接
+<!-- YOUTUBE:START -->
+- [GITHUB](https://github.com/gcusms)
+- [CSDN博客链接](https://blog.csdn.net/Msyusheng?spm=1000.2115.3001.5343)
+<!-- YOUTUBE:END -->
+
+
 
 
