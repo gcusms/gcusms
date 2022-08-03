@@ -1,6 +1,6 @@
 # Hit there 👋
 
-<h3 align="center">GCUSMS</h3>
+<h3 align="left">GCUSMS</h3>
 
 - 🌱 I’m currently learning ...
 
